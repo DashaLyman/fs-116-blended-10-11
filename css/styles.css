@@ -276,6 +276,10 @@ button {
         border-radius: 4px;
         background-color: transparent;
         padding-left: 42px;
+        outline: transparent;
+}
+.footer-form-input:focus {
+border-color: #02897a;
 }
 
 .footer-form-input::placeholder {
